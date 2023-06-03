@@ -116,7 +116,7 @@ class Appointments extends Component {
               <img
                 src="https://assets.ccbp.in/frontend/react-js/appointments-app/appointments-img.png "
                 alt="appointments"
-                className="appointment-img"
+                className="appointments-img"
               />
             </div>
             <hr className="hr" />
