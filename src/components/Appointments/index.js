@@ -130,7 +130,7 @@ class Appointments extends Component {
                 Starred
               </button>
             </div>
-            <ul className="appointment-list">
+            <ul className="appointments-list">
               {filteredAppointmentsList.map(eachAppointment => (
                 <AppointmentItem
                   key={eachAppointment.id}
