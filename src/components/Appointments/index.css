@@ -185,7 +185,7 @@
 
 .appointments-list {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: flex-start;
   width: 100%;
   padding: 0px;
